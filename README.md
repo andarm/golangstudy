@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-### 显示linux 相关的学习内容 
-
-=======
-# linux
-linuxbase program
->>>>>>> b6e96cb235452ec954b58550a86a1d1990aed1fe
+# Beego 学习笔记 
+### 目录 
+- 1.包使用 
+- 2.配置文件理解 
+- 3.view 理解 
+- 4.基于sqlite使用 
+- 5.基于bootstrap使用 
