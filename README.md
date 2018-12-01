@@ -6,4 +6,5 @@
 - [4.基于sqlite使用](4.1.md)
 - [5.基于mysql使用](5.1.md)
   * [5.1 mysql win10使用](5.1.0.md)
+  * [5.1 mysql 权限设置](5.1.1.md)
 - [6.基于bootstrap使用](6.1.md) 
