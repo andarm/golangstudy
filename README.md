@@ -1,6 +1,6 @@
-# Beego 学习笔记 
+# golang 学习笔记 
 
-### 目录(README.md) 
+## 目录(README.md) 
 
 - [1.包使用](1.1.md)
 - [2.配置文件理解](2.1.md)
@@ -10,3 +10,5 @@
   * [5.1 mysql win10使用](5.1.md)
   * [5.2 mysql 权限设置](5.2.md)
 - [6.基于bootstrap使用](6.1.md) 
+- [7.gomobile using](7.md)
+    * [7.1.环境搭建](7.1.md)
