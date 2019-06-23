@@ -11,12 +11,13 @@
   * [5.1 mysql win10使用](5.1.md)
   * [5.2 mysql 权限设置](5.2.md)
 - [6. 基于bootstrap使用](6.1.md)
-
+- [7. beego 扩展包使用]()
+	* [7.1. httplib使用](golang_sample/test_httplib/)
+	
 ### golang 基础笔记 
 
 - [1. gomobile using](g1.md)
     * [1.1. 环境搭建](g1.1.md)
 - [2. golang window服务程序](g2.md) 
-    * [g2.1. 例程](golang_sample/window_service/)
+    * [2.1. window服务程序例程](golang_sample/window_service/)
 
-#### [golang_sample](golang_sample/) 
