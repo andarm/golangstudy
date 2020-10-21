@@ -1,6 +1,6 @@
 # golang 学习笔记 
 
-## 目录(README.md) 
+## [目录](README.md) 
 
 ## 第一章 golang 基础笔记 
 
@@ -8,6 +8,9 @@
     * [1.1. 环境搭建](g1.1.md)
 - [2. golang window服务程序](g2.md) 
     * [2.1. window服务程序例程](golang_sample/window_service/)
+- [3. gomobile](g3.md)
+    * [gomobile环境搭建](g3.1.md)
+    * [gomobile Debug](g3.2.md)
 
 ## 第二章 beego 笔记 
 - [1.1. 包使用](1.1.md)
