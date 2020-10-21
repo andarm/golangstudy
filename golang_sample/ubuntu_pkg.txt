@@ -1,0 +1,6 @@
+
+Open Suse Software
+RPM Seek
+Getdeb
+Pkgs.org
+Launchpad
