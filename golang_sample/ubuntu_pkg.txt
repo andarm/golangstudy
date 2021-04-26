@@ -1,8 +1,0 @@
-
-Open Suse Software
-RPM Seek
-Getdeb
-Pkgs.org
-Launchpad
-
-apt-get -f install=apt-get install -f  //自动解决依赖关系 
