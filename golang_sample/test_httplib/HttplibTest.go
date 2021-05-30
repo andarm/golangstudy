@@ -25,5 +25,5 @@ func HttplibGet(str string) {
 	fmt.Println(str)
 }
 func main() {
-	HttplibGet("http://api.heclouds.com/devices/530698847")
+	HttplibGet("http://www.baidu.com")
 }
