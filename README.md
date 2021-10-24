@@ -27,9 +27,12 @@
   * [5.3 mysql 常用命令](5.3.md)
 - [6. 基于bootstrap使用]()
 - [7. freeRadius使用](.)
-  * [7.1 安装测试](7.1.md)
+  * [7.1.安装测试](7.1.md)
+  * [7.2.Server配置](7.2.md)
+  * [7.3.LDAP](7.3.md)
+  * [7.4.freeradius demo for server and client](golang_sample/test_radius/)
 
 ## 第三章 常用记录 
 
-- [3.1.日志](3.1.md)
+- [3.1.samba](3.1.md)
 - [3.2.]
