@@ -33,6 +33,9 @@
   * [7.2.Server配置](7.2.md)
   * [7.3.LDAP](7.3.md)
   * [7.4.freeradius demo for server and client](golang_sample/test_radius/)
+- [8. beego 库工具使用](.)
+  * [8.1.httplib](8.1.md)
+  * [8.2.toolbox](8.2.md)
 
 ## 第三章 常用记录 
 
